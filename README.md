@@ -9,6 +9,10 @@ _|"""""|_|"""""|_|"""""|_|"""""|
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
 </pre>
 
+# What's this?
+This is a semestral work for [MI-RUN](https://edux.fit.cvut.cz/courses/MI-RUN/en/start) (Runtime systems) class at [FIT CTU](http://fit.cvut.cz/en) (Faculty of Information Technology, Czech Technical University in Prague). The lecturer was 
+Claus Gittinger and the instructor was Marcel Hlopko.
+
 # FAQ
 
 - Q: i've clonned .kek but i can't find it plshelp
