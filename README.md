@@ -9,7 +9,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
 </pre>
 
-# What's this?
+# About
 This is a semestral work for [MI-RUN](https://edux.fit.cvut.cz/courses/MI-RUN/en/start) (Runtime systems) class at [FIT CTU](http://fit.cvut.cz/en) (Faculty of Information Technology, Czech Technical University in Prague). The lecturer was 
 Claus Gittinger and the instructor was Marcel Hlopko.
 
@@ -39,7 +39,7 @@ If you're testing something and it doesn't work, it's a good idea to turn off gc
 # Debugging
 Life is hard, but it's even harder when you program in C. Programming in reality is really different than what we can see in movies. We used Valgrind and GDB.
 
-## Valgdrind
+## Valgrind
 Example of running scheme from the root directory of the repository:
 
           make -C ../compiler && ../compiler/kekc scheme.kek ../tests/kexes/scheme.kexe && make -C ../vm && valgrind --show-leak-kinds=all --leak-check=full --track-origins=yes ../vm/kek ../tests/kexes/scheme.kexe
